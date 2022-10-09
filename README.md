@@ -2,7 +2,10 @@
 - 👀 I’m interested in knowing more interesting subjects.
 - 🌱 I’m currently learning Kotlin and Computer Graphics.
 - 📫 How to reach me chaudharyyash17082002@gmail.com
-- I study at Ganpat University at Mahesana. 
+- I study at Ganpat University at Mahesana.                                                         
+
+![image](https://user-images.githubusercontent.com/110706350/194768374-966b9ff3-f089-49bf-9b4b-a563cbfe7634.png)
+
 
 Connect ON:
 https://www.instagram.com/_yash_17082002
